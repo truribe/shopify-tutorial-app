@@ -1,0 +1,4 @@
+.env
+.idea
+ngrok.exe.lnk
+node_modules
